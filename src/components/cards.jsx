@@ -1,5 +1,5 @@
 import React from "react";
-import menuData from "./src/data/db.json";
+import menuData from "../data/db.json";
 
 const Menu = () => {
   const {
