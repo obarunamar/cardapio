@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import categoriesData from '../data/categories.json';
+import { category } from '../data/categories';
 import './categories.css';
 
 const Categories = () => {
   return (
     <div className="categories-slider">
-      {categoriesData.categories.map(category => (
+      {category.categories.map(category => (
         <Link
           key={category.name}
           to={category.target}

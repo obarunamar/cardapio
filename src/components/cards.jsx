@@ -1,5 +1,5 @@
 import React from "react";
-import menuData from "../data/db.json";
+import { db } from "../data/db";
 
 const Menu = () => {
   const {
@@ -18,7 +18,7 @@ const Menu = () => {
     drinks,
     drinkssemalcool,
     drinksobar
-  } = menuData.menu;
+  } = db.menu;
 
   return (
     <div>

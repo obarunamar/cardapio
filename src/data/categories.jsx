@@ -1,4 +1,4 @@
-{
+export const category = {
    "categories": [
     {
       "name": "Pratos",
