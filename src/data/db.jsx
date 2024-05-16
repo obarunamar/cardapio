@@ -64,13 +64,23 @@ export const db = {
         "imagem": "imagem_lombo_fritas.jpg"
       },
       {
-        "nome": "Trio Mineirinho",
-        "preço": "R$59,00",
+        "nome": "Trio Mineiro",
+        "preço": "R$88,00",
         "imagem": "imagem_trio_mineirinho.jpg"
+      },
+      {
+        "nome": "Caracol de Linguiça",
+        "preço": "R$59,00",
+        "imagem": "imagem_costela_suina.jpg"
       },
       {
         "nome": "Costela Suína ao Molho Barbecue",
         "preço": "R$69,00",
+        "imagem": "imagem_costela_suina.jpg"
+      },
+      {
+        "nome": "O Bar 1.0",
+        "preço": "R$129,00",
         "imagem": "imagem_costela_suina.jpg"
       },
       {
@@ -304,7 +314,7 @@ export const db = {
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "Suco Lata Dell Vale 1.5l",
+        "nome": "Suco Lata Dell Vale",
         "preço": "R$8,00",
         "imagem": "imagem_batata_maluca.jpg"
       }
@@ -316,32 +326,32 @@ export const db = {
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "cachaça cabaré",
+        "nome": "Cachaça Cabaré",
         "preço": "R$7,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "vodka Smirnoff",
+        "nome": "Vodka Smirnoff",
         "preço": "R$15,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "gim gordons",
+        "nome": "Gim Gordons",
         "preço": "R$18,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "gim rockrs",
+        "nome": "Gim Rockrs",
         "preço": "R$13,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "gim tanqueray",
+        "nome": "Gim Tanqueray",
         "preço": "R$22,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "tequila",
+        "nome": "Tequila",
         "preço": "R$10,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
@@ -351,12 +361,12 @@ export const db = {
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "red label",
+        "nome": "Red Label",
         "preço": "R$20,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "ballantines",
+        "nome": "Ballantines",
         "preço": "R$18,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
@@ -373,12 +383,12 @@ export const db = {
     ],
     "cerveja": [
       {
-        "nome": "amstel",
+        "nome": "Amstel",
         "preço": "R$12,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "antártica",
+        "nome": "Antártica",
         "preço": "R$12,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
@@ -393,12 +403,12 @@ export const db = {
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "império puro malte",
+        "nome": "Império Puro Malte",
         "preço": "R$11,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "império lager",
+        "nome": "Império Lager",
         "preço": "R$13,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
@@ -410,12 +420,12 @@ export const db = {
     ],
     "longneck": [
       {
-        "nome": "império gold",
+        "nome": "Império Gold",
         "preço": "R$8,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "império lager",
+        "nome": "Império Lager",
         "preço": "R$7,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
@@ -425,22 +435,22 @@ export const db = {
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "Heineken zero",
+        "nome": "Heineken Zero",
         "preço": "R$12,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "petra preta",
+        "nome": "Petra Preta",
         "preço": "R$8,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "corona",
+        "nome": "Corona",
         "preço": "R$15,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "black Princess",
+        "nome": "Black Princess",
         "preço": "R$8,00",
         "imagem": "imagem_batata_maluca.jpg"
       }
@@ -452,17 +462,17 @@ export const db = {
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "caneca 500ml",
+        "nome": "Caneca 500ml",
         "preço": "R$14,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "tulipa vinho",
+        "nome": "Tulipa Vinho",
         "preço": "R$8,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "caneca vinho--",
+        "nome": "Caneca Vinho",
         "preço": "R$19,00",
         "imagem": "imagem_batata_maluca.jpg"
       }
@@ -481,37 +491,37 @@ export const db = {
     ],
     "drinks": [
       {
-        "nome": "gin especiarias",
+        "nome": "Gin Especiarias",
         "preço": "R$26,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "Gin red",
+        "nome": "Gin Red",
         "preço": "R$28,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "Gin lemon",
+        "nome": "Gin Lemon",
         "preço": "R$24,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "gin maracuja",
+        "nome": "Gin Maracuja",
         "preço": "R$26,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "gin tropical",
+        "nome": "Gin Tropical",
         "preço": "R$26,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "caipirinha",
+        "nome": "Caipirinha",
         "preço": "R$17,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
       {
-        "nome": "caipvodka",
+        "nome": "Caipvodka",
         "preço": "R$20,00",
         "imagem": "imagem_batata_maluca.jpg"
       },
@@ -572,7 +582,7 @@ export const db = {
       },
       {
         "nome": "Moscow Mule",
-        "preço": "R$24,00",
+        "preço": "R$28,00",
         "imagem": "imagem_batata_maluca.jpg"
       }
     ],
